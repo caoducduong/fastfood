@@ -1,0 +1,140 @@
+{
+  "AComment": {
+    "description": "Auto imported from components/AComment.vue"
+  },
+  "LazyAComment": {
+    "description": "Auto imported from components/AComment.vue"
+  },
+  "Bar": {
+    "description": "Auto imported from components/Bar.vue"
+  },
+  "LazyBar": {
+    "description": "Auto imported from components/Bar.vue"
+  },
+  "BoxFavourite": {
+    "description": "Auto imported from components/BoxFavourite.vue"
+  },
+  "LazyBoxFavourite": {
+    "description": "Auto imported from components/BoxFavourite.vue"
+  },
+  "BoxHistory": {
+    "description": "Auto imported from components/BoxHistory.vue"
+  },
+  "LazyBoxHistory": {
+    "description": "Auto imported from components/BoxHistory.vue"
+  },
+  "BoxProduct": {
+    "description": "Auto imported from components/BoxProduct.vue"
+  },
+  "LazyBoxProduct": {
+    "description": "Auto imported from components/BoxProduct.vue"
+  },
+  "BoxSale": {
+    "description": "Auto imported from components/BoxSale.vue"
+  },
+  "LazyBoxSale": {
+    "description": "Auto imported from components/BoxSale.vue"
+  },
+  "Breadcrumbs": {
+    "description": "Auto imported from components/Breadcrumbs.vue"
+  },
+  "LazyBreadcrumbs": {
+    "description": "Auto imported from components/Breadcrumbs.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "ListNavigation": {
+    "description": "Auto imported from components/ListNavigation.vue"
+  },
+  "LazyListNavigation": {
+    "description": "Auto imported from components/ListNavigation.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Short": {
+    "description": "Auto imported from components/Short.vue"
+  },
+  "LazyShort": {
+    "description": "Auto imported from components/Short.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LazyVuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "AppBar": {
+    "description": "Auto imported from components/app/AppBar.vue"
+  },
+  "LazyAppBar": {
+    "description": "Auto imported from components/app/AppBar.vue"
+  },
+  "AppSideBar": {
+    "description": "Auto imported from components/app/AppSideBar.vue"
+  },
+  "LazyAppSideBar": {
+    "description": "Auto imported from components/app/AppSideBar.vue"
+  },
+  "ProductConfirm": {
+    "description": "Auto imported from components/cart/ProductConfirm.vue"
+  },
+  "LazyProductConfirm": {
+    "description": "Auto imported from components/cart/ProductConfirm.vue"
+  },
+  "Product": {
+    "description": "Auto imported from components/cart/product.vue"
+  },
+  "LazyProduct": {
+    "description": "Auto imported from components/cart/product.vue"
+  },
+  "DeleteDialog": {
+    "description": "Auto imported from components/dialog/DeleteDialog.vue"
+  },
+  "LazyDeleteDialog": {
+    "description": "Auto imported from components/dialog/DeleteDialog.vue"
+  },
+  "Dialog": {
+    "description": "Auto imported from components/dialog/Dialog.vue"
+  },
+  "LazyDialog": {
+    "description": "Auto imported from components/dialog/Dialog.vue"
+  },
+  "InfoAdmin": {
+    "description": "Auto imported from components/dialog/InfoAdmin.vue"
+  },
+  "LazyInfoAdmin": {
+    "description": "Auto imported from components/dialog/InfoAdmin.vue"
+  },
+  "ProductDialog": {
+    "description": "Auto imported from components/dialog/ProductDialog.vue"
+  },
+  "LazyProductDialog": {
+    "description": "Auto imported from components/dialog/ProductDialog.vue"
+  },
+  "StaffDialog": {
+    "description": "Auto imported from components/dialog/StaffDialog.vue"
+  },
+  "LazyStaffDialog": {
+    "description": "Auto imported from components/dialog/StaffDialog.vue"
+  },
+  "BoxAddress": {
+    "description": "Auto imported from components/form/BoxAddress.vue"
+  },
+  "LazyBoxAddress": {
+    "description": "Auto imported from components/form/BoxAddress.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/form/login.vue"
+  },
+  "LazyLogin": {
+    "description": "Auto imported from components/form/login.vue"
+  }
+}

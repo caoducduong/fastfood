@@ -1,0 +1,149 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_e2ac250c"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_c2dd2430"
+  },
+  {
+    "name": "checkorder",
+    "path": "/checkorder",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/checkorder.vue",
+    "chunkName": "pages/checkorder",
+    "_name": "_51df130e"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_3203c888"
+  },
+  {
+    "name": "orderconfirmation",
+    "path": "/orderconfirmation",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/orderconfirmation.vue",
+    "chunkName": "pages/orderconfirmation",
+    "_name": "_6608456b"
+  },
+  {
+    "name": "signin",
+    "path": "/signin",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/signin.vue",
+    "chunkName": "pages/signin",
+    "_name": "_5299f52c"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_296d4840"
+  },
+  {
+    "name": "userProfile",
+    "path": "/userProfile",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/userProfile.vue",
+    "chunkName": "pages/userProfile",
+    "_name": "_6b55d8c6"
+  },
+  {
+    "name": "admin-createorder",
+    "path": "/admin/createorder",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/createorder.vue",
+    "chunkName": "pages/admin/createorder",
+    "_name": "_230ddc7a"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/dashboard.vue",
+    "chunkName": "pages/admin/dashboard",
+    "_name": "_16ba1388"
+  },
+  {
+    "name": "admin-detailreport",
+    "path": "/admin/detailreport",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/detailreport.vue",
+    "chunkName": "pages/admin/detailreport",
+    "_name": "_5b3cd066"
+  },
+  {
+    "name": "admin-importProducts",
+    "path": "/admin/importProducts",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/importProducts.vue",
+    "chunkName": "pages/admin/importProducts",
+    "_name": "_476d5131"
+  },
+  {
+    "name": "admin-listorder",
+    "path": "/admin/listorder",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/listorder.vue",
+    "chunkName": "pages/admin/listorder",
+    "_name": "_621fc718"
+  },
+  {
+    "name": "admin-listproducts",
+    "path": "/admin/listproducts",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/listproducts.vue",
+    "chunkName": "pages/admin/listproducts",
+    "_name": "_2b70eeec"
+  },
+  {
+    "name": "admin-listusers",
+    "path": "/admin/listusers",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/listusers.vue",
+    "chunkName": "pages/admin/listusers",
+    "_name": "_e2823e5c"
+  },
+  {
+    "name": "admin-refund",
+    "path": "/admin/refund",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/refund.vue",
+    "chunkName": "pages/admin/refund",
+    "_name": "_92a2a600"
+  },
+  {
+    "name": "admin-staffs",
+    "path": "/admin/staffs",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/admin/staffs.vue",
+    "chunkName": "pages/admin/staffs",
+    "_name": "_2d43e19b"
+  },
+  {
+    "name": "dashboard-admin-home",
+    "path": "/dashboard-admin/home",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/dashboard-admin/home.vue",
+    "chunkName": "pages/dashboard-admin/home",
+    "_name": "_17c40180"
+  },
+  {
+    "name": "productDetail-id",
+    "path": "/productDetail/:id?",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/productDetail/_id.vue",
+    "chunkName": "pages/productDetail/_id",
+    "_name": "_1e85f433"
+  },
+  {
+    "name": "products-type",
+    "path": "/products/:type?",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/products/_type.vue",
+    "chunkName": "pages/products/_type",
+    "_name": "_f5e67914"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/quang/Documents/icts/food_fast/food-fast/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0d2f4f8c"
+  }
+]
